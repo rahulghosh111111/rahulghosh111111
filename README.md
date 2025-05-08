@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm  Rahul</h1>
+<h1>Hi 👋, I'm  Rahul Ghosh</h1>
 <p>🚀 Passionate Frontend Developer | Turning designs into seamless web experiences Hi there! I'm Rahul, a frontend developer skilled in React.js, Next.js, and Tailwind CSS. I love building fast, responsive, and user-focused web applications. Check out my projects below — each one reflects my journey in solving real-world problems through clean and efficient code. Always learning. Always building.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
