@@ -41,9 +41,11 @@
 
 | Project | Tech Stack | Preview |
 |--------|------------|---------|
-| **K-Prep** – Educational platform with quizzes and learning modules | ReactJS, Firebase, Tailwind | [Live Demo](https://kprep.vercel.app) |
-| **Movie Search App** – Search movies via OMDb API | ReactJS, CSS | [Live Demo](https://movie-finder.vercel.app) |
-| **Hospital Management System** – Fullstack MERN project | React, Node.js, MongoDB, Spring Boot | _Coming Soon_ |
+| **K-Prep** – Educational platform with quizzes and learning modules | Next.JS, TailwindCSS, MODB, NodeJs | [Live Demo](https://kprep.in) |
+| **Weather Dashboard** – Search Live Weather update through API | ReactJS, TailwindCSS | [Live Demo](https://weather-dashboard-99sk.vercel.app/) |
+| **Personal Portfolio** - Digital Resume | Next.js,TypeScript | [Live Demo](https://portfolio-resume-rahul-ghoshs-projects-1a75945a.vercel.app/) |
+| **Hospital Management System** – Fullstack MERN project | React,MongoDB, Spring Boot | _Coming Soon_ |
+ 
 
 ---
 
