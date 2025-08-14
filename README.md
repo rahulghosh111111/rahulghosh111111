@@ -42,10 +42,10 @@
 
 | Project | Tech Stack | Preview |
 |--------|------------|---------|
-| **K-Prep** – Educational platform with quizzes and learning modules | Next.JS, TailwindCSS, MODB, NodeJs | [Live Demo](https://kprep.in) |
-| **Weather Dashboard** – Search Live Weather update through API | ReactJS, TailwindCSS | [Live Demo](https://weather-dashboard-99sk.vercel.app/) |
+| **Kareer-Grow** – Kareer-Grow is a full-stack job-search platform that connects job seekers with curated listings and top employers across industries. | Next.JS, TailwindCSS, MODB, NodeJs | [Live Demo](https://github.com/rahulghosh111111/Kareer-Grow) |
+| **Hospital Management System** – Java Fullstack project | React,MongoDB, Spring Boot |[Live Demo](https://github.com/rahulghosh111111/Pulse-HMS/tree/main/HMS)|
 | **Personal Portfolio** - Digital Resume | Next.js,TypeScript | [Live Demo](https://portfolio-resume-rahul-ghoshs-projects-1a75945a.vercel.app/) |
-| **Hospital Management System** – Fullstack MERN project | React,MongoDB, Spring Boot | _Coming Soon_ |
+| **Weather Dashboard** – Search Live Weather update through API | ReactJS, TailwindCSS | [Live Demo](https://weather-dashboard-99sk.vercel.app/) |
  
 
 ---
