@@ -51,12 +51,19 @@
 
 ---
 
-### 📈 GitHub Stats
-
-
+### 📊 Engineering Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulghosh111111&layout=compact&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulghosh111111&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" width="48%" alt="Rahul's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulghosh111111&layout=compact&theme=tokyonight&border_radius=10" width="48%" alt="Rahul's Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulghosh111111&theme=tokyonight&border_radius=10" width="100%" alt="Rahul's Coding Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulghosh111111&theme=tokyonight" width="100%" alt="Profile Details" />
 </p>
 
 ---
