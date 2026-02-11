@@ -1,7 +1,7 @@
 <!-- Animated waving hand -->
 <h1 align="center">Hi 👋, I'm <span style="color:#f39c12;">Rahul Ghosh</span></h1>
 
-<p align="center">🚀 Passionate Frontend Developer skilled in React.js, Spring Boot, and MongoDB</p>
+<p align="center">🚀 Passionate FullStack Developer skilled in React.js, Spring Boot,Node.js, and MongoDB, MySQL</p>
 
 <p align="center">I build seamless, scalable, and performant web applications with a strong focus on user experience.</p>
 
