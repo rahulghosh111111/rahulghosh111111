@@ -44,11 +44,11 @@
 | Project | Stack | Key Highlight |
 | :--- | :--- | :--- |
 | **[UniEvents](https://github.com/rahulghosh111111/UniEvents)** | Next.js, Node.js, TypeScript | **Final Year Project**: A QR-code ticketing system for campus event ecosystems. |
-| **[AI Playground](https://github.com/rahulghosh111111)** | FastAPI, Gemini 1.5, LangChain | Features **Ai-Chat-Master-Pro** with persistent memory and LLM integration. |
+| **[AI Playground](https://github.com/rahulghosh111111)** | FastAPI,LangChain | Features **Online-Coding-Platform** with persistent memory and LLM integration. |
 | **[Kareer-Grow](https://github.com/rahulghosh111111/Kareer-Grow)** | Spring Boot, React, MongoDB | A full-stack job-search platform connecting seekers with curated listings. |
 | **[Code-Colab](https://github.com/rahulghosh111111)** | Socket.io, React, Express | Real-time collaborative code editor with live sync and room-based sharing. |
 | **[OMEGEL_BY-RAHUL](https://github.com/rahulghosh111111)** | WebRTC, Socket.io, Node.js | P2P video chat application with low-latency signaling. |
-| **[Ragoon-Ai](https://github.com/rahulghosh111111)** | Python, MusicGen, RVC | AI-driven audio experimentation and song generation hub. |
+| **[Ragoon-Ai](https://github.com/rahulghosh111111)** | Next.js, Node.js, TypeScript,API | AI Generation Hub: A full-stack platform for AI-driven chat. |
 
 ---
 
