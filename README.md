@@ -7,18 +7,16 @@
     <a href="https://x.com/RahulGhosh9749"><b>Twitter</b></a>
   </p>
   
-  <p><b>Software Engineer | B.Tech CSE | AI & Full-Stack Specialist</b></p>
-  
-  <p><i>Building high-performance applications where modern web tech meets Artificial Intelligence.</i></p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=f39c12&center=true&vCenter=true&width=435&lines=Full-Stack+Engineer;AI+Application+Developer;B.Tech+CSE+Student;MERN+%2B+Next.js+Specialist" alt="Typing SVG" />
 </div>
 
 ---
 
-### 🚀 At A Glance
-- 🛠️ **Current Focus:** Architecting a **Smart Campus Ecosystem** via `UniEvents` using Microservices.
-- 🤖 **AI Research:** Deep-diving into **RAG (Retrieval-Augmented Generation)** with LangChain and Gemini 1.5 Flash.
-- ⚡ **Performance:** Obsessed with sub-second latency, SEO optimization, and clean `SOLID` principles.
-- 🎓 **Academics:** B.Tech Student focused on Advanced DSA and System Design.
+### 💻 About Me
+- 🎓 **Academics:** B.Tech Computer Science Engineering student focused on Advanced DSA and System Design.
+- 🤖 **AI Research:** Architecting conversational agents using **Gemini 1.5 Flash**, LangChain, and FastAPI.
+- ⚡ **Performance:** Focused on building scalable **Microservices** and optimizing sub-second frontend latency.
+- 🔭 **Current Goal:** Developing a **Visual Search Engine** for e-commerce utilizing vector embeddings.
 
 ---
 
@@ -28,27 +26,20 @@
 | :--- | :--- |
 | **Frontend** | `React.js` `Next.js` `TypeScript` `Tailwind CSS` `Redux Toolkit` |
 | **Backend** | `Node.js` `Spring Boot` `FastAPI` `Express.js` |
-| **Database/Cloud** | `MongoDB` `PostgreSQL` `Redis` `AWS (S3/EC2)` `Docker` |
-| **Intelligence** | `Gemini Pro` `LangChain` `OpenCV` `Mediapipe` |
+| **Database** | `MongoDB` `PostgreSQL` `MySQL` `Redis` |
+| **AI/CV** | `Google Gemini` `LangChain` `OpenCV` `Mediapipe` |
+| **DevOps** | `AWS (S3/EC2)` `Docker` `Git` `Vercel` |
 
 ---
 
-### 🏮 Featured Engineering Works
+### 🚀 High-Impact Projects
 
-#### 🤖 [Ai-Chat-Master-Pro](https://github.com/rahulghosh111111)
-*An intelligent conversational agent built for speed and memory.*
-- **Core:** Next.js + FastAPI + Gemini 1.5 Flash.
-- **Innovation:** Implemented **buffer-window memory** using LangChain to maintain long-term context without token bloating.
-
-#### 🎫 [UniEvents - Smart Ticketing](https://github.com/rahulghosh111111)
-*Scaling campus event management through automation.*
-- **Tech:** MERN Stack + TypeScript + Vercel.
-- **Highlight:** Integrated **dynamic QR generation** and real-time attendance tracking with secure JWT authentication.
-
-#### 🖱️ [Vision-Based HCI (Hand Gesture Mouse)](https://github.com/rahulghosh111111)
-*Human-Computer Interaction via Computer Vision.*
-- **Tech:** Python, OpenCV, Mediapipe.
-- **Outcome:** Reduced peripheral dependency by enabling 98% accuracy in touchless cursor navigation.
+| Project | Stack | Key Innovation |
+| :--- | :--- | :--- |
+| **[UniEvents](https://github.com/rahulghosh111111)** | Next.js, Node.js, TypeScript | **Smart Campus Ecosystem**: Dynamic QR ticketing and real-time attendance management. |
+| **[Ai-Chat-Master-Pro](https://github.com/rahulghosh111111)** | FastAPI, Gemini 1.5, Next.js | **Intelligent Agent**: Implemented buffer-window memory via LangChain for persistent context. |
+| **[Hand Gesture Mouse](https://github.com/rahulghosh111111)** | Python, OpenCV, Mediapipe | **HCI Research**: Touchless system navigation with 98% gesture accuracy. |
+| **[Kareer-Grow](https://github.com/rahulghosh111111/Kareer-Grow)** | Spring Boot, React, MongoDB | **Enterprise SaaS**: Full-stack job search engine with advanced filtering and ATS features. |
 
 ---
 
@@ -64,8 +55,8 @@
 
 ---
 
-### 🏗️ What's Cooking?
-> Currently building a **Flipkart-style Visual Search Engine**. I'm implementing **Vector Embeddings** to allow users to search for products using images instead of text. Stay tuned!
+### 🏗️ In Development
+> Currently building a **Flipkart-style Visual Search Engine**. I'm implementing **Vector Search** to allow users to find products via image uploads rather than text queries.
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rahulghosh111111&style=for-the-badge&color=blue" alt="visitor count"/>
