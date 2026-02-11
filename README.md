@@ -41,13 +41,14 @@
 
 ### 🚀 Featured Projects
 
-| Project | Tech Stack | Preview |
-|--------|------------|---------|
-| **Kareer-Grow** – is a full-stack job-search platform that connects job seekers with curated listings and top employers across industries. | Next.JS, TailwindCSS, MODB, Spring Boot | [Repository](https://github.com/rahulghosh111111/Kareer-Grow) |
-| **Hospital Management System** – Java Fullstack project | React,MongoDB, Spring Boot |[Repository](https://github.com/rahulghosh111111/Pulse-HMS/tree/main/HMS)|
-| **Personal Portfolio** - Digital Resume | Next.js,TypeScript | [Live Demo](https://portfolio-resume-rahul-ghoshs-projects-1a75945a.vercel.app/) |
-| **Weather Dashboard** – Search Live Weather update through API | ReactJS, TailwindCSS | [Live Demo](https://weather-dashboard-99sk.vercel.app/) |
- 
+| Project | Stack | Key Highlight |
+| :--- | :--- | :--- |
+| **[UniEvents](https://github.com/rahulghosh111111/UniEvents)** | Next.js, Node.js, TypeScript | **Final Year Project**: A QR-code ticketing system for campus event ecosystems. |
+| **[AI Playground](https://github.com/rahulghosh111111)** | FastAPI, Gemini 1.5, LangChain | Features **Ai-Chat-Master-Pro** with persistent memory and LLM integration. |
+| **[Kareer-Grow](https://github.com/rahulghosh111111/Kareer-Grow)** | Spring Boot, React, MongoDB | A full-stack job-search platform connecting seekers with curated listings. |
+| **[Code-Colab](https://github.com/rahulghosh111111)** | Socket.io, React, Express | Real-time collaborative code editor with live sync and room-based sharing. |
+| **[OMEGEL_BY-RAHUL](https://github.com/rahulghosh111111)** | WebRTC, Socket.io, Node.js | P2P video chat application with low-latency signaling. |
+| **[Ragoon-Ai](https://github.com/rahulghosh111111)** | Python, MusicGen, RVC | AI-driven audio experimentation and song generation hub. |
 
 ---
 
