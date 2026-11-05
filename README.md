@@ -29,7 +29,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,python,ts,js,php,dart,react,nextjs,tailwind,html,css,flutter,spring,nodejs,express,fastapi,flask,laravel,mongodb,mysql,docker,nginx,git,github,aws,vercel,postman,figma,vscode,opencv&perline=10&theme=dark"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java%2Cpython%2Cts%2Cjs%2Cphp%2Cdart%2Creact%2Cnextjs%2Ctailwind%2Chtml%2Ccss%2Cflutter%2Cspring%2Cnodejs%2Cexpress%2Cfastapi%2Cflask%2Claravel%2Cmongodb%2Cmysql%2Cdocker%2Cnginx%2Cgit%2Cgithub%2Caws%2Cvercel%2Cpostman%2Cfigma%2Cvscode%2Copencv&perline=10&theme=dark"/>
       <img src="https://skillicons.dev/icons?i=java,python,ts,js,php,dart,react,nextjs,tailwind,html,css,flutter,spring,nodejs,express,fastapi,flask,laravel,mongodb,mysql,docker,nginx,git,github,aws,vercel,postman,figma,vscode,opencv&perline=10&theme=light" alt="Java, Python, TypeScript, JavaScript, PHP, Dart, React, Next.js, Tailwind CSS, HTML, CSS, Flutter, Spring Boot, Node.js, Express, FastAPI, Flask, Laravel, MongoDB, MySQL, Docker, Nginx, Git, GitHub, AWS, Vercel, Postman, Figma, VS Code, OpenCV"/>
     </picture>
   </a>
