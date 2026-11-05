@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="t">
+  <title id="t">Delivery Endless Runner: One-touch scooter runner with a cheat-proof Laravel back end</title>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#10B981"><animate attributeName="stop-color" values="#10B981;#0EA5E9;#10B981" dur="10s" repeatCount="indefinite"/></stop>
+      <stop offset="55%" stop-color="#0EA5E9"><animate attributeName="stop-color" values="#0EA5E9;#3B82F6;#0EA5E9" dur="10s" repeatCount="indefinite"/></stop>
+      <stop offset="100%" stop-color="#3B82F6"><animate attributeName="stop-color" values="#3B82F6;#10B981;#3B82F6" dur="10s" repeatCount="indefinite"/></stop>
+    </linearGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.4" fill="#FFFFFF" opacity="0.16"/></pattern>
+    <clipPath id="wave"><path d="M0,24 Q0,0 24,0 H1176 Q1200,0 1200,24 V286 C1010,346 820,250 600,298 C380,346 190,254 0,302 Z"><animate attributeName="d" values="M0,24 Q0,0 24,0 H1176 Q1200,0 1200,24 V286 C1010,346 820,250 600,298 C380,346 190,254 0,302 Z;M0,24 Q0,0 24,0 H1176 Q1200,0 1200,24 V300 C1010,260 820,340 600,290 C380,240 190,336 0,290 Z;M0,24 Q0,0 24,0 H1176 Q1200,0 1200,24 V286 C1010,346 820,250 600,298 C380,346 190,254 0,302 Z" dur="9s" repeatCount="indefinite"/></path></clipPath>
+  </defs>
+  <g clip-path="url(#wave)">
+    <rect width="1200" height="340" fill="url(#g)"/>
+    <rect width="1200" height="340" fill="url(#dots)"/>
+    <circle cx="130" cy="80" r="96" fill="#FFFFFF" opacity="0.09"><animate attributeName="cy" values="80;64;80" dur="9s" repeatCount="indefinite"/></circle><circle cx="1060" cy="70" r="124" fill="#FFFFFF" opacity="0.09"><animate attributeName="cy" values="70;54;70" dur="11s" repeatCount="indefinite"/></circle><circle cx="900" cy="250" r="58" fill="#FFFFFF" opacity="0.09"><animate attributeName="cy" values="250;234;250" dur="7s" repeatCount="indefinite"/></circle><circle cx="300" cy="240" r="44" fill="#FFFFFF" opacity="0.09"><animate attributeName="cy" values="240;224;240" dur="8s" repeatCount="indefinite"/></circle>
+  </g>
+  <g font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Ubuntu, Arial, sans-serif" text-anchor="middle" fill="#FFFFFF">
+    <rect x="556" y="34" width="88" height="88" rx="24" fill="#FFFFFF" fill-opacity="0.2" stroke="#FFFFFF" stroke-opacity="0.45"/>
+    <text x="600" y="95" font-size="46" font-family="'Segoe UI Emoji', 'Apple Color Emoji', 'Noto Color Emoji', sans-serif">🛵</text>
+    <text x="600" y="178" font-size="52" font-weight="800">Delivery Endless Runner</text>
+    <text x="600" y="216" font-size="20" font-weight="500" opacity="0.95">One-touch scooter runner with a cheat-proof Laravel back end</text>
+    <rect x="432" y="240" width="82" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.18" stroke="#FFFFFF" stroke-opacity="0.45"/><text x="474" y="260" text-anchor="middle" font-size="13" font-weight="700" fill="#FFFFFF" letter-spacing="0.4">Flutter</text><rect x="524" y="240" width="82" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.18" stroke="#FFFFFF" stroke-opacity="0.45"/><text x="566" y="260" text-anchor="middle" font-size="13" font-weight="700" fill="#FFFFFF" letter-spacing="0.4">Laravel</text><rect x="616" y="240" width="67" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.18" stroke="#FFFFFF" stroke-opacity="0.45"/><text x="650" y="260" text-anchor="middle" font-size="13" font-weight="700" fill="#FFFFFF" letter-spacing="0.4">MySQL</text><rect x="694" y="240" width="74" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.18" stroke="#FFFFFF" stroke-opacity="0.45"/><text x="730" y="260" text-anchor="middle" font-size="13" font-weight="700" fill="#FFFFFF" letter-spacing="0.4">Docker</text>
+  </g>
+</svg>

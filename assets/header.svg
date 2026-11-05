@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="t">
+  <title id="t">Rahul Ghosh, Full-Stack Developer</title>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#F39C12"><animate attributeName="stop-color" values="#F39C12;#FF5E8A;#F39C12" dur="10s" repeatCount="indefinite"/></stop><stop offset="55%" stop-color="#FF5E8A"><animate attributeName="stop-color" values="#FF5E8A;#8B5CF6;#FF5E8A" dur="10s" repeatCount="indefinite"/></stop><stop offset="100%" stop-color="#6C5CE7"><animate attributeName="stop-color" values="#6C5CE7;#F39C12;#6C5CE7" dur="10s" repeatCount="indefinite"/></stop></linearGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.4" fill="#FFFFFF" opacity="0.16"/></pattern>
+    <clipPath id="wave"><path d="M0,24 Q0,0 24,0 H1176 Q1200,0 1200,24 V232 C1010,292 820,196 600,244 C380,292 190,200 0,248 Z"><animate attributeName="d" values="M0,24 Q0,0 24,0 H1176 Q1200,0 1200,24 V232 C1010,292 820,196 600,244 C380,292 190,200 0,248 Z;M0,24 Q0,0 24,0 H1176 Q1200,0 1200,24 V246 C1010,206 820,286 600,236 C380,186 190,282 0,236 Z;M0,24 Q0,0 24,0 H1176 Q1200,0 1200,24 V232 C1010,292 820,196 600,244 C380,292 190,200 0,248 Z" dur="9s" repeatCount="indefinite"/></path></clipPath>
+  </defs>
+  <g clip-path="url(#wave)">
+    <rect width="1200" height="300" fill="url(#g)"/>
+    <rect width="1200" height="300" fill="url(#dots)"/>
+    <circle cx="140" cy="70" r="90" fill="#FFFFFF" opacity="0.08"><animate attributeName="cy" values="70;52;70" dur="9s" repeatCount="indefinite"/></circle><circle cx="1040" cy="60" r="120" fill="#FFFFFF" opacity="0.08"><animate attributeName="cy" values="60;42;60" dur="11s" repeatCount="indefinite"/></circle><circle cx="860" cy="210" r="60" fill="#FFFFFF" opacity="0.08"><animate attributeName="cy" values="210;192;210" dur="7s" repeatCount="indefinite"/></circle><circle cx="330" cy="200" r="46" fill="#FFFFFF" opacity="0.08"><animate attributeName="cy" values="200;182;200" dur="8s" repeatCount="indefinite"/></circle>
+  </g>
+  <g font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Ubuntu, Arial, sans-serif" text-anchor="middle" fill="#FFFFFF">
+    <text x="600" y="92" font-size="22" font-weight="600" opacity="0.92">Hi there <tspan font-family="'Segoe UI Emoji', 'Apple Color Emoji', 'Noto Color Emoji', sans-serif">👋</tspan> I'm</text>
+    <text x="600" y="160" font-size="66" font-weight="800" letter-spacing="1">Rahul Ghosh</text>
+    <text x="600" y="204" font-size="20" font-weight="500" opacity="0.95">Full-Stack Developer  ·  Local-first AI  ·  Real-time apps</text>
+  </g>
+</svg>

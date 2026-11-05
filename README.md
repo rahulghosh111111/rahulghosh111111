@@ -1,182 +1,172 @@
-<div align="center">
-
-  <!-- Dynamic Waving Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,19,24&height=220&section=header&text=Rahul%20Ghosh&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Engineer%20%E2%80%A2%20Local-First%20AI%20%26%20Voice%20Systems&descFontSize=18&descAlignY=58" width="100%" alt="Rahul Ghosh Banner" />
-
-  <!-- Animated Typing SVG -->
-  <a href="https://github.com/rahulghosh111111">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+Java+%C2%B7+Spring+Boot+%C2%B7+React;Engineering+Local-First+AI+Voice+Assistants;Next.js+%C2%B7+Node.js+%C2%B7+Python+%C2%B7+MongoDB+%C2%B7+MySQL;B.Tech+in+Computer+Science+%26+Engineering+%40+KIIT" alt="Typing SVG" />
-  </a>
-
-  <br/>
-
-  <!-- Quick Links & Live Profile Counter -->
-  <p align="center">
-    <a href="https://portfolio-resume-pearl.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="Portfolio"/>
-    </a>
-    <a href="https://linkedin.com/in/rahul-ghosh-b0b660254" target="_blank">
-      <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://x.com/RahulGhosh9749" target="_blank">
-      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-    </a>
-    <a href="https://www.youtube.com/@ToxicMines02" target="_blank">
-      <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=rahulghosh111111&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" alt="Profile views"/>
-  </p>
-
-</div>
-
----
-
-### ⚡ System Architecture & Profile
-
-```yaml
-developer:
-  name: "Rahul Ghosh"
-  education: "B.Tech in CSE @ KIIT University, Bhubaneswar"
-  core_stack: ["Java", "Spring Boot", "React", "Next.js", "Node.js", "Python", "MongoDB", "MySQL"]
-  specializations:
-    - "Local-First AI Assistants (Offline STT/TTS, On-Device SLMs, Biometric Voice Lock)"
-    - "Screen Understanding, OCR Pipelines & Windows GUI Automation"
-    - "Real-Time Distributed Web Apps (WebSockets, WebRTC, Docker Sandboxes)"
-  currently_building: "Ira Assistant — Zero-cloud, voice-locked Windows desktop assistant"
-  foundations: ["Data Structures & Algorithms", "Object-Oriented Programming", "System Design"]
-```
-
----
-
-### 🌟 Flagship System: Ira Assistant
-
-<table align="center" width="100%">
-  <tr>
-    <td>
-      <div align="left">
-        <h3>
-          🎙️ <a href="https://github.com/rahulghosh111111/Personal-Assistant-releases"><b>Ira Assistant</b></a>
-          &nbsp;
-          <img src="https://img.shields.io/badge/STATUS-PRIVATE%20%2F%20INVITE--ONLY-F59E0B?style=flat-square" alt="Private Invite Only" />
-          <img src="https://img.shields.io/badge/TESTS-1%2C900%2B%20PASSING-10B981?style=flat-square" alt="1900+ Tests" />
-          <img src="https://img.shields.io/badge/CLOUD%20DEPENDENCY-0%25-38BDF8?style=flat-square" alt="Zero Cloud" />
-        </h3>
-        <p>
-          A <b>local-first, voice-locked desktop assistant for Windows</b>. Wakes exclusively to its owner's voice, understands <b>English, Hindi, Bengali, Hinglish, and Banglish</b>, and orchestrates applications, browser workflows, files, and screen interactions with <b>zero cloud AI and no external API keys</b>.
-        </p>
-        <ul>
-          <li>🔊 <b>Multilingual Audio Pipeline:</b> Offline wake-word engine, voice-activity detection (VAD), real-time barge-in, and Whisper STT fine-tuned for Indian regional accents.</li>
-          <li>🔐 <b>Zero-Trust Security:</b> Biometric voiceprint lock, risk-rated action execution behind a unified safety gate, reversible undo journal, and encrypted audit logging.</li>
-          <li>🧠 <b>Hybrid Planning Engine:</b> Deterministic rules-first execution with a local LLM (<code>Ollama</code>) fallback planner, combined with local OCR & computer vision to read and click anything on screen.</li>
-          <li>📦 <b>Production Desktop Delivery:</b> Native <code>PySide6 (Qt)</code> system tray interface, interactive onboarding wizard, and cryptographically signed self-verifying updates.</li>
-        </ul>
-        <p align="left">
-          <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/PySide6_(Qt)-41CD52?style=flat-square&logo=qt&logoColor=white" />
-          <img src="https://img.shields.io/badge/Whisper_STT-412991?style=flat-square" />
-          <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
-          <img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat-square&logo=onnx&logoColor=white" />
-        </p>
-      </div>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠️ Tech Stack & Tooling
-
-<div align="center">
-
-| Category | Technologies |
-| :---: | :---: |
-| **Languages** | <img src="https://skillicons.dev/icons?i=java,python,ts,js,php,dart&theme=dark" alt="Languages" /> |
-| **Frontend & Mobile** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,flutter&theme=dark" alt="Frontend" /> |
-| **Backend & Databases** | <img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi,flask,laravel,mongodb,mysql&theme=dark" alt="Backend" /> |
-| **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=docker,nginx,git,github,aws,vercel,postman,figma,vscode&theme=dark" alt="DevOps" /> |
-
-</div>
-
-<p align="center"><b>🤖 AI, Voice & Real-Time Engineering</b></p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
-  <img src="https://img.shields.io/badge/Whisper_STT-412991?style=for-the-badge" alt="Whisper"/>
-  <img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX Runtime"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" alt="Pinecone"/>
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
-  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol"/>
-  <img src="https://img.shields.io/badge/LiveKit-FF6B6B?style=for-the-badge&logo=livekit&logoColor=white" alt="LiveKit"/>
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io"/>
-  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/PySide6_(Qt)-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PySide6 (Qt)"/>
+  <img src="assets/header.svg" width="100%" alt="Hi there, I'm Rahul Ghosh: Full-Stack Developer, local-first AI, real-time apps"/>
 </p>
 
----
+<p align="center">
+  <a href="https://github.com/rahulghosh111111">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F39C12&center=true&vCenter=true&width=700&lines=Java+%C2%B7+Spring+Boot+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Node.js;Building+Ira%2C+a+voice-locked+offline+AI+assistant;Turning+ideas+into+real-time+web+apps;B.Tech+CSE+%40+KIIT+University" alt="Java, Spring Boot, React, Next.js, Node.js. Building Ira, a voice-locked offline AI assistant."/>
+  </a>
+</p>
 
-### 🚀 Featured Engineering Projects
-
-| Project | Architecture & Capabilities | Tech Stack | Access |
-| :--- | :--- | :--- | :---: |
-| **MILTON: An Expert** | Screen-aware desktop agent that reads UI trees (`UI Automation` + `OCR`), speaks back, retains contextual memory, and executes system actions | `Python` `Claude API` `UI Automation` `Tesseract` | [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/rahulghosh111111/MILTON---An-Expert) |
-| **Code Engine** | Browser-based cloud IDE featuring Monaco editor, file explorer, integrated terminal, worker queues, and isolated per-language Docker runners | `TypeScript` `Node.js` `WebSockets` `Docker` `Nginx` | [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/rahulghosh111111/Code-Engine) |
-| **Delivery Endless Runner** | Cross-platform endless-runner game engineered with a reactive Flutter front end and containerized Laravel backend | `Flutter` `Dart` `Laravel` `PHP` `Docker` | [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/rahulghosh111111/Delivery-Endless-Runner) |
-| **FRIDAY 2.0** | Continuous-conversation voice assistant with offline speech recognition, neural TTS synthesis, and a live terminal dashboard | `Python` `Vosk` `edge-tts` `Gemini` `Rich` | [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/rahulghosh111111/Friday2.0) |
-| **Unwatermark** | Local web pipeline that strips annotation, text, and image watermarks from PDFs using a non-destructive three-stage engine | `Python` `Flask` `PyMuPDF` `OpenCV` | [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/rahulghosh111111/Remove-WaterMark) |
-| **Code-Colab** | Real-time multi-user collaborative code editor with low-latency room synchronization | `React` `Socket.io` `Express` | [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/rahulghosh111111/Code-Colab) [![Live](https://img.shields.io/badge/Live-10B981?style=flat-square&logo=render&logoColor=white)](https://code-colab-1-sgrv.onrender.com) |
-| **AI Playground** | Polyglot browser IDE (`JS`, `Python`, `Java`, `C++`) paired with an execution-aware Gemini copilot that inspects live code & stdout | `Next.js` `TypeScript` `Gemini` `Piston` | [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/rahulghosh111111/AI-Playground) [![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel)](https://ai-playground-delta-six.vercel.app) |
-| **UniEvents** *(Final-Year)* | End-to-end campus event management & cryptographic QR-code ticketing suite for students and administrators | `Next.js` `TypeScript` `Node.js` `Express` `MongoDB` | [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/rahulghosh111111/UniEvents) [![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel)](https://uni-events-sigma.vercel.app) |
-| **Ragoon AI** | Sleek conversational AI workspace featuring streaming token animations and a custom dark-mode UI | `Next.js` `TypeScript` `Tailwind` `Gemini` | [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/rahulghosh111111/Ragoon-Ai) [![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel)](https://ragoon-ai.vercel.app) |
-
-<details>
-<summary><b>📂 Explore 12+ Additional Projects & Repositories (Click to Expand)</b></summary>
+<p align="center">
+  <a href="https://portfolio-resume-gilt.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-F39C12?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/rahul-ghosh-b0b660254"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/rahulghosh111111?tab=followers"><img src="https://img.shields.io/github/followers/rahulghosh111111?style=for-the-badge&logo=github&label=Followers&color=8B5CF6" alt="GitHub followers"/></a>
+  <img src="https://komarev.com/ghpvc/?username=rahulghosh111111&style=for-the-badge&color=FF5E8A&label=PROFILE+VIEWS" alt="Profile views"/>
+</p>
 
 <br/>
 
-| Project | What it does | Stack | Links |
-| :--- | :--- | :--- | :---: |
-| **F.R.I.D.A.Y. Demo** | Iron Man-inspired voice agent backed by a custom Model Context Protocol (MCP) tool server | `Python` `FastMCP` `LiveKit Agents` | [Repo](https://github.com/rahulghosh111111/friday-tony-stark-demo-main) |
-| **JARVIS Agent** | Multimodal Windows assistant with voice, screen vision, GUI automation across 6 languages | `Python` `GPT-4o Vision` `OpenRouter` | [Repo](https://github.com/rahulghosh111111/JARVIS-tony-stark-Agent) |
-| **Rubix Solver** | Computer-vision web app that scans a physical Rubik's Cube via camera and computes optimal Kociemba moves | `Next.js` `OpenCV.js` `Kociemba` | [Repo](https://github.com/rahulghosh111111/Rubix-Solver) · [Live](https://rubix-solver.vercel.app) |
-| **OMEGEL** | Peer-to-peer random 1-on-1 video chat using WebRTC streams and a Socket.io matchmaking server | `WebRTC` `Socket.io` `Next.js` `Node.js` | [Repo](https://github.com/rahulghosh111111/OMEGEL_BY-RAHUL) |
-| **AI Interview Coach** | Automated mock interviewer with resume parsing, spoken & coding rounds, vector search, and AI evaluation | `Next.js` `FastAPI` `Gemini` `Pinecone` | [Repo](https://github.com/rahulghosh111111/ai-interview-coach) |
-| **Notes-to-Cheatsheet** | Compresses lengthy lecture notes and PDFs into structured one-page revision cheatsheets | `Python` `Streamlit` `Gemini 2.5 Flash` | [Repo](https://github.com/rahulghosh111111/Text-To-CheatSheet) · [Live](https://notes-to-cheatsheet.streamlit.app/) |
-| **Kareer-Grow** | Full-stack recruitment portal matching candidates with curated employer listings | `Spring Boot` `React` `MongoDB` | [Repo](https://github.com/rahulghosh111111/Kareer-Grow) |
-| **Pulse-HMS** | Modular hospital management system | `Java` | [Repo](https://github.com/rahulghosh111111/Pulse-HMS) |
-| **Spring Boot Projects** | Production-grade RESTful web services demonstrating layered architecture and CRUD operations | `Java` `Spring Boot` | [Repo](https://github.com/rahulghosh111111/Spring-Boot-Projects) |
-| **Placement Coding Archive** | Curated DSA & coding-round problem solutions for technical interviews | `Java` | [Repo](https://github.com/rahulghosh111111/Coding-round-Questions-for-placement) |
-| **Weather Dashboard** | Real-time meteorological forecasting web application | `JavaScript` | [Repo](https://github.com/rahulghosh111111/Weather-Dashboard) · [Live](https://weather-dashboard-99sk.vercel.app/) |
-| **SGPA Calculator** | Fast semester GPA computation utility for university grading scales | `JavaScript` | [Repo](https://github.com/rahulghosh111111/SGPA-Calculator) |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"/>
+  <img src="assets/about-light.svg" width="100%" alt="About me: Full-Stack Developer, B.Tech CSE at KIIT University in Bhubaneswar, working with Java, Spring Boot, React, Next.js, Node.js and Python, currently building Ira, a voice-locked offline AI assistant."/>
+</picture>
+
+<br/>
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,python,ts,js,php,dart,react,nextjs,tailwind,html,css,flutter,spring,nodejs,express,fastapi,flask,laravel,mongodb,mysql,docker,nginx,git,github,aws,vercel,postman,figma,vscode,opencv&perline=10&theme=dark"/>
+      <img src="https://skillicons.dev/icons?i=java,python,ts,js,php,dart,react,nextjs,tailwind,html,css,flutter,spring,nodejs,express,fastapi,flask,laravel,mongodb,mysql,docker,nginx,git,github,aws,vercel,postman,figma,vscode,opencv&perline=10&theme=light" alt="Java, Python, TypeScript, JavaScript, PHP, Dart, React, Next.js, Tailwind CSS, HTML, CSS, Flutter, Spring Boot, Node.js, Express, FastAPI, Flask, Laravel, MongoDB, MySQL, Docker, Nginx, Git, GitHub, AWS, Vercel, Postman, Figma, VS Code, OpenCV"/>
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Ollama-21262D?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/Whisper-21262D?style=flat-square&logo=audacity&logoColor=white" alt="Whisper"/>
+  <img src="https://img.shields.io/badge/ONNX_Runtime-21262D?style=flat-square&logo=onnx&logoColor=white" alt="ONNX Runtime"/>
+  <img src="https://img.shields.io/badge/Google_Gemini-21262D?style=flat-square&logo=googlegemini&logoColor=8E75B2" alt="Google Gemini"/>
+  <img src="https://img.shields.io/badge/Claude_API-21262D?style=flat-square&logo=anthropic&logoColor=D97757" alt="Claude API"/>
+  <img src="https://img.shields.io/badge/MCP-21262D?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol"/>
+  <img src="https://img.shields.io/badge/Pinecone-21262D?style=flat-square" alt="Pinecone"/>
+  <img src="https://img.shields.io/badge/LiveKit-21262D?style=flat-square&logo=livekit&logoColor=FF6B6B" alt="LiveKit"/>
+  <img src="https://img.shields.io/badge/Socket.io-21262D?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.io"/>
+  <img src="https://img.shields.io/badge/WebRTC-21262D?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC"/>
+  <img src="https://img.shields.io/badge/Streamlit-21262D?style=flat-square&logo=streamlit&logoColor=FF4B4B" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/PySide6_(Qt)-21262D?style=flat-square&logo=qt&logoColor=41CD52" alt="PySide6 (Qt)"/>
+</p>
+
+<br/>
+
+<h2 align="center">🌟 Flagship Project</h2>
+
+<p align="center">
+  <a href="https://github.com/rahulghosh111111/Personal-Assistant-releases">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/ira-dark.svg"/>
+      <img src="assets/ira-light.svg" width="100%" alt="Ira Assistant: a local-first, voice-locked desktop assistant for Windows. Offline wake word and Whisper fine-tuned for Hindi and Bengali, voiceprint lock, risk-rated actions, OCR and local vision. 1,900+ automated tests, 3 languages, 0 API keys, 100% on-device AI."/>
+    </picture>
+  </a>
+</p>
+
+<br/>
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+  <a href="https://github.com/rahulghosh111111/MILTON---An-Expert"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-milton-dark.svg"/><img src="assets/card-milton-light.svg" width="49%" alt="MILTON: An Expert, a screen-aware AI desktop agent"/></picture></a>
+  <a href="https://github.com/rahulghosh111111/Code-Engine"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-code-engine-dark.svg"/><img src="assets/card-code-engine-light.svg" width="49%" alt="Code Engine, a browser-based IDE with Docker runners"/></picture></a>
+</p>
+<p align="center">
+  <a href="https://github.com/rahulghosh111111/Delivery-Endless-Runner"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-delivery-runner-dark.svg"/><img src="assets/card-delivery-runner-light.svg" width="49%" alt="Delivery Endless Runner, a Flutter game with a Laravel API"/></picture></a>
+  <a href="https://github.com/rahulghosh111111/Friday2.0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-friday-dark.svg"/><img src="assets/card-friday-light.svg" width="49%" alt="FRIDAY 2.0, a voice assistant"/></picture></a>
+</p>
+<p align="center">
+  <a href="https://github.com/rahulghosh111111/AI-Playground"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-ai-playground-dark.svg"/><img src="assets/card-ai-playground-light.svg" width="49%" alt="AI Playground, a cloud IDE with a Gemini pair programmer"/></picture></a>
+  <a href="https://github.com/rahulghosh111111/Code-Colab"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-code-colab-dark.svg"/><img src="assets/card-code-colab-light.svg" width="49%" alt="Code-Colab, a real-time collaborative code editor"/></picture></a>
+</p>
+<p align="center">
+  <a href="https://github.com/rahulghosh111111/UniEvents"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-unievents-dark.svg"/><img src="assets/card-unievents-light.svg" width="49%" alt="UniEvents, a campus events platform with QR-code ticketing"/></picture></a>
+  <a href="https://github.com/rahulghosh111111/Ragoon-Ai"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-ragoon-ai-dark.svg"/><img src="assets/card-ragoon-ai-light.svg" width="49%" alt="Ragoon AI, an AI chat app"/></picture></a>
+</p>
+<p align="center">
+  <a href="https://github.com/rahulghosh111111/Remove-WaterMark"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-unwatermark-dark.svg"/><img src="assets/card-unwatermark-light.svg" width="49%" alt="Unwatermark, a PDF watermark removal tool"/></picture></a>
+  <a href="https://github.com/rahulghosh111111/ai-interview-coach"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-interview-coach-dark.svg"/><img src="assets/card-interview-coach-light.svg" width="49%" alt="AI Interview Coach, a mock interview platform"/></picture></a>
+</p>
+
+<p align="center">
+  <b>▶ Try them live:</b>&nbsp;
+  <a href="https://ai-playground-delta-six.vercel.app">AI Playground</a> ·
+  <a href="https://code-colab-1-sgrv.onrender.com">Code-Colab</a> ·
+  <a href="https://uni-events-sigma.vercel.app">UniEvents</a> ·
+  <a href="https://ragoon-ai.vercel.app">Ragoon AI</a> ·
+  <a href="https://rubix-solver.vercel.app">Rubix Solver</a> ·
+  <a href="https://notes-to-cheatsheet.streamlit.app/">Notes-to-Cheatsheet</a>
+</p>
+
+<details>
+<summary><b>🗂️ More projects</b></summary>
+
+<br/>
+
+| Project | What it does | Stack |
+| :--- | :--- | :--- |
+| [**Rubix Solver**](https://github.com/rahulghosh111111/Rubix-Solver) | Scan a Rubik's Cube with your phone camera and get the solving moves | Next.js · OpenCV.js · Kociemba |
+| [**OMEGEL**](https://github.com/rahulghosh111111/OMEGEL_BY-RAHUL) | Random one-to-one video chat with a Socket.io matchmaking and signalling server | WebRTC · Socket.io · Next.js · Node.js |
+| [**F.R.I.D.A.Y. demo**](https://github.com/rahulghosh111111/friday-tony-stark-demo-main) | Iron Man-inspired voice agent backed by an MCP tool server | Python · FastMCP · LiveKit Agents |
+| [**JARVIS Agent**](https://github.com/rahulghosh111111/JARVIS-tony-stark-Agent) | Multimodal Windows assistant: voice, screen vision, GUI automation, 6 languages | Python · GPT-4o Vision · OpenRouter |
+| [**Notes-to-Cheatsheet**](https://github.com/rahulghosh111111/Text-To-CheatSheet) | Turns long notes and PDFs into a one-page cheatsheet | Python · Streamlit · Gemini |
+| [**Kareer-Grow**](https://github.com/rahulghosh111111/Kareer-Grow) | Job-search platform connecting seekers with curated listings | Spring Boot · React · MongoDB |
+| [**Pulse-HMS**](https://github.com/rahulghosh111111/Pulse-HMS) | Hospital management system | Java |
+| [**Spring Boot Projects**](https://github.com/rahulghosh111111/Spring-Boot-Projects) | RESTful web apps with a layered architecture and CRUD APIs | Java · Spring Boot |
+| [**Placement coding questions**](https://github.com/rahulghosh111111/Coding-round-Questions-for-placement) | Coding-round problems and solutions for placements | Java |
+| [**Weather Dashboard**](https://github.com/rahulghosh111111/Weather-Dashboard) | Weather dashboard web app | JavaScript |
+| [**SGPA Calculator**](https://github.com/rahulghosh111111/SGPA-Calculator) | Semester GPA calculator | JavaScript |
 
 </details>
 
----
+<br/>
 
-### 📊 GitHub Telemetry & Analytics
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=rahulghosh111111&theme=tokyonight&hide_border=true&border_radius=12" width="98%" alt="Rahul's coding streak" />
-  <br/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulghosh111111&theme=tokyonight" width="98%" alt="Profile details" />
-  <br/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahulghosh111111&theme=tokyonight" height="175" alt="GitHub stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahulghosh111111&theme=tokyonight" height="175" alt="Most-used languages" />
-</div>
-
----
-
-### 🌐 Let's Connect & Build
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/rahul-ghosh-b0b660254" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://x.com/RahulGhosh9749" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-  <a href="https://www.instagram.com/gili_gili_6u/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://www.youtube.com/@ToxicMines02" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <a href="https://portfolio-resume-pearl.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="Portfolio"/></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=rahulghosh111111&background=0D1117&border=30363D&stroke=30363D&ring=F39C12&fire=FF5E8A&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=F39C12&sideLabels=C9D1D9&dates=8B949E&border_radius=16"/>
+    <img src="https://streak-stats.demolab.com/?user=rahulghosh111111&background=FFFFFF&border=D0D7DE&stroke=D0D7DE&ring=F39C12&fire=E84393&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=D35400&sideLabels=1F2328&dates=59636E&border_radius=16" width="100%" alt="Rahul's GitHub contribution streak"/>
+  </picture>
 </p>
 
-<!-- Dynamic Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,19,24&height=110&section=footer&text=Thanks%20for%20visiting!%20%E2%AD%90%20Star%20a%20repo%20if%20you%20find%20it%20useful.&fontSize=16&fontColor=ffffff&fontAlignY=65" width="100%" alt="Footer Banner" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulghosh111111&theme=github_dark"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulghosh111111&theme=default" width="100%" alt="GitHub profile details and contributions"/>
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahulghosh111111&theme=github_dark"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahulghosh111111&theme=default" height="170" alt="GitHub stats"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahulghosh111111&theme=github_dark"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahulghosh111111&theme=default" height="170" alt="Top languages by commit"/>
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahulghosh111111/rahulghosh111111/output/github-contribution-grid-snake-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/rahulghosh111111/rahulghosh111111/output/github-contribution-grid-snake.svg" width="100%" alt="A snake eating Rahul's GitHub contribution graph"/>
+  </picture>
+</p>
+
+<br/>
+
+<h2 align="center">🌐 Let's Connect</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/rahul-ghosh-b0b660254"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/RahulGhosh9749"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://www.instagram.com/gili_gili_6u/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.youtube.com/@ToxicMines02"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://portfolio-resume-gilt.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-F39C12?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+</p>
+
+<p align="center">
+  <img src="assets/footer.svg" width="100%" alt="Thanks for visiting. Let's build something great."/>
+</p>

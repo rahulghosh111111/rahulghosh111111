@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="160" viewBox="0 0 1200 160" role="img" aria-labelledby="t">
+  <title id="t">Thanks for visiting</title>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#6C5CE7"/><stop offset="50%" stop-color="#FF5E8A"/><stop offset="100%" stop-color="#F39C12"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#g)" d="M0,70 C200,30 400,110 600,70 C800,30 1000,110 1200,64 V160 H0 Z"><animate attributeName="d" values="M0,70 C200,30 400,110 600,70 C800,30 1000,110 1200,64 V160 H0 Z;M0,62 C200,104 400,34 600,76 C800,112 1000,40 1200,74 V160 H0 Z;M0,70 C200,30 400,110 600,70 C800,30 1000,110 1200,64 V160 H0 Z" dur="8s" repeatCount="indefinite"/></path>
+  <text x="600" y="128" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Ubuntu, Arial, sans-serif" font-size="20" font-weight="600" fill="#FFFFFF">Thanks for visiting  ✦  let's build something great</text>
+</svg>
