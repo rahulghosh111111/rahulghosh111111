@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-resume-gilt.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-F39C12?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://portfolio-resume-pearl.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-F39C12?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/rahul-ghosh-b0b660254"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/rahulghosh111111?tab=followers"><img src="https://img.shields.io/github/followers/rahulghosh111111?style=for-the-badge&logo=github&label=Followers&color=8B5CF6" alt="GitHub followers"/></a>
   <img src="https://komarev.com/ghpvc/?username=rahulghosh111111&style=for-the-badge&color=FF5E8A&label=PROFILE+VIEWS" alt="Profile views"/>
@@ -164,7 +164,7 @@
   <a href="https://x.com/RahulGhosh9749"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="https://www.instagram.com/gili_gili_6u/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://www.youtube.com/@ToxicMines02"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <a href="https://portfolio-resume-gilt.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-F39C12?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://portfolio-resume-pearl.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-F39C12?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 <p align="center">
